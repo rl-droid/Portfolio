@@ -5,8 +5,36 @@
   margin: 0px;
 }
 
-/*HOMEPAGE*/
+/*ALL*/
+.top-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #5F8689;
+  overflow: hidden;
+}
 
+.menu-item a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/*HOMEPAGE*/
+.flex-container {
+  display: flex;
+}
+.home-text {
+  flex: 1;
+  border: 2px #BFAC9B;
+}
+.home-image {
+  flex: 1;
+  border:#BFAC9B;
+  height: auto;
+}
 /*GALLERY*/
 div.gallery {
   margin: 5px;
