@@ -17,8 +17,8 @@
 *.menu-item a {
     display: block;
     color: white;
-    text-align: center;
-    position:relative;
+    justify-content: space-around;
+    position: relative;
     text-decoration: none;
 }
 
@@ -27,7 +27,7 @@
   display: flex;
   flex-direction: row;
   background-color: #BFAC9B;
-  margin: 30px;
+  padding: 30px;
   justify-content: space-around;
 }
 .home-text {
@@ -50,9 +50,8 @@ div.gallery {
   margin: 30px;
   border: 5px solid #BFAC9B;
   float: left;
-  width: auto;
+  width: 500px;
   justify-content: space-around;
-  
 }
 
 div.gallery:hover {
