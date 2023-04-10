@@ -53,10 +53,6 @@ div.gallery {
   margin: 30px;
 }
 
-div.gallery:hover {
-  border: 1px solid #402617;
-}
-
 div.gallery img {
   width: 354.17px;
   height: auto;
@@ -64,7 +60,6 @@ div.gallery img {
 
 div.desc {
   padding: 15px;
-  text-align: center;
 }
  @media screen and (max-width: 767px) {
   .galler-images {
