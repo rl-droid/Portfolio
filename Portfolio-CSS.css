@@ -48,6 +48,7 @@
 /*GALLERY*/
 div.gallery {
   display: flex;
+  flex-direction: row;
   border: 5px solid #BFAC9B;
   float: left;
   justify-content: space-around;
@@ -72,7 +73,7 @@ div.desc {
  @media screen and (max-width: 767px) {
   .galler-images {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
   }
  }
 
