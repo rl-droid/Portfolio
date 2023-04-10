@@ -15,10 +15,9 @@
 }
 
 *.menu-item a {
-    display: block;
+    display: flex;
     color: white;
     justify-content: space-around;
-    position: relative;
     text-decoration: none;
 }
 
@@ -48,12 +47,9 @@
 /*GALLERY*/
 div.gallery {
   display: flex;
-  flex-direction: row;
   border: 5px solid #BFAC9B;
   float: left;
   justify-content: space-around;
-  width: 500px;
-  height: 1250px;
   margin: 30px;
 }
 
@@ -62,7 +58,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 100%;
+  width: 354.17px;
   height: auto;
 }
 
