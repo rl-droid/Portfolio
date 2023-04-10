@@ -20,6 +20,13 @@
     justify-content: space-around;
     text-decoration: none;
 }
+*.FooterButton {
+    padding: 5px;
+    margin: 20px;
+    color:black;
+    border: black 1px;
+    background-color: #5F8689;
+}
 
 /*HOMEPAGE*/
 .flex-container {
@@ -66,6 +73,9 @@ div.desc {
     display: flex;
     flex-direction: column;
   }
+ }
+ footer {
+  position: bottom;
  }
 
  /*BLOG*/
