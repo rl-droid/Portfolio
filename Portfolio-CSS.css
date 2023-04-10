@@ -47,11 +47,13 @@
 
 /*GALLERY*/
 div.gallery {
+  display: flex;
   border: 5px solid #BFAC9B;
   float: left;
   justify-content: space-around;
   width: 500px;
   height: 1250px;
+  margin: 30px;
 }
 
 div.gallery:hover {
