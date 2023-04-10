@@ -76,13 +76,17 @@ div.desc {
   background-color: #a5a39c;
   margin: 25px;
   text-align: center;
-  padding: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 25px;
+  padding-bottom: 25px;
  }
  @media screen and (max-width: 767px) {
     .post {
       margin-left: 40px;
       margin-right: 40px;
       margin-top: 10px;
+      margin-bottom: 10px;
     }
  }
  @media screen and (max-width: 360px) {
@@ -90,5 +94,6 @@ div.desc {
       margin-left: 20px;
       margin-right: 20px;
       margin-top: 10px;
+      margin-bottom: 10px;
     }
  }
