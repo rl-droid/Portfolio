@@ -26,11 +26,11 @@
 .flex-container {
   display: flex;
   flex-direction: row;
+  background-color: #BFAC9B;
 }
 .home-text {
   flex: 1;
   border: 2px #5F8689;
-  background-color: #BFAC9B;
 }
 .home-image {
   flex: 1;
