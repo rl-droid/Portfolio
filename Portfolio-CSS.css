@@ -27,6 +27,8 @@
   display: flex;
   flex-direction: row;
   background-color: #BFAC9B;
+  margin: 30px;
+  justify-content: space-around;
 }
 .home-text {
   flex: 1;
@@ -45,7 +47,7 @@
 
 /*GALLERY*/
 div.gallery {
-  margin: 5px;
+  margin: 30px;
   border: 5px solid #BFAC9B;
   float: left;
   width: 180px;
