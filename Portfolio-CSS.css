@@ -48,6 +48,7 @@
 div.gallery {
   display: flex;
   border: 5px solid #BFAC9B;
+  background-color: #a5a39c;
   float: left;
   justify-content: space-around;
   margin: 30px;
