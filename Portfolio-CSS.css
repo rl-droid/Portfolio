@@ -58,10 +58,6 @@ div.gallery img {
   height: auto;
 }
 
-.gallery-flex {
-  display: flex;
-  flex-direction: column; 
-}
 div.desc {
   padding: 15px;
 }
