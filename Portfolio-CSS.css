@@ -47,7 +47,6 @@
 
 /*GALLERY*/
 div.gallery {
-  margin: 30px;
   border: 5px solid #BFAC9B;
   float: left;
   justify-content: space-around;
@@ -58,7 +57,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 50%;
+  width: 100%;
   height: auto;
 }
 
