@@ -71,9 +71,9 @@ div.desc {
  /*BLOG*/
  .post {
   background-color: #BBB8B1;
-  margin-left: 100px;
-  margin-right: 100px;
   margin-top: 25px;
+  text-align: center;
+  padding: 100px;
  }
  @media screen and (max-width: 767px) {
     .post {
